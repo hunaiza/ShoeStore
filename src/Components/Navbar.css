@@ -1,0 +1,8 @@
+@media screen and (min-width: 480px) {
+    .components {
+        flex-direction: row;
+      }
+    .title {
+      background-color: aqua
+    }
+    }

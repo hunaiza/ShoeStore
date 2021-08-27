@@ -1,0 +1,38 @@
+{
+    "air-jordan-3-valor-blue": {
+      "name": "Elite flex grey shoes",
+      "img":
+        "https://pbs.twimg.com/media/Ebx9OXPXgAMOlwu.jpg",
+        "price" : 15000
+    },
+    "jordan-mars-270-london": {
+      "name": "Sketchers d lite 3 stride",
+      "img":
+        "https://i.ytimg.com/vi/VN7nJmTpsAM/hqdefault.jpg",
+        "price" : 5200
+    },
+    "air-jordan-1-zoom-racer-blue": {
+      "name": "RACER BLUE",
+      "img":
+        "https://www.worldfootwear.com/media/images/news/wf2020204543p.jpg",
+        "price" : 25000
+    },
+    "air-jordan-3-valor-blue1": {
+      "name": "VALOUR BLUE",
+      "img":
+        "https://www.skechers.com/dw/image/v2/BDCN_PRD/on/demandware.static/-/Library-Sites-SkechersSharedLibrary/default/dwb5402fa1/images/Landing/men/SKX44314-2020-New-Site-Q2-Content-Grid_M_Casual-Sneakers_51286-NVW.jpg?sw=356",
+        "price" : 5500
+    },
+    "jordan-mars-270-london2": {
+      "name": "Commercial Sketchers",
+      "img":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8NvEbOJN-4kxloa-S4YuxGTRMX_1bFFMU2w&usqp=CAU",
+      "price" : 6300
+    },
+    "air-jordan-1-zoom-racer-blue3": {
+      "name": "Pink girl",
+      "img":
+        "https://www.skechers.com/dw/image/v2/BDCN_PRD/on/demandware.static/-/Library-Sites-SkechersSharedLibrary/default/dw817693dc/images/Landing/women/SKX44314-2020-New-Site-Q2-Content-Grid_W_Casual-Sneakers_74391-LTPK.jpg?sw=356",
+        "price" : 7000
+    }
+  }
